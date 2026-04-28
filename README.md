@@ -1,4 +1,4 @@
-DETECTION AND CLASSIFICATION OF ACUTE LYMPHOBLASTIC LEUKEMIA USING MACHINE LEARNING ALGORITHMS
+## DETECTION AND CLASSIFICATION OF ACUTE LYMPHOBLASTIC LEUKEMIA USING MACHINE LEARNING ALGORITHMS
 
 Acute Lymphoblastic Leukemia is a type of Blood Cancer affecting White Blood Cell and Bone Marrow, Primarily seen in Children. Machine Learning offers solution by automating this process and improving diagnostic accuracy.
 
